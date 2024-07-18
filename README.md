@@ -1,5 +1,5 @@
 # SocJS
-A JavaScript library used for creation of secure and resilient web applications. 
+A JavaScript library used for creating secure and resilient web applications. 
 
 ## About
 SocJS (Security Operations Code JavaScript) is a cross-browser library for implementing cybersecurity-based functions without having to code from scratch. It is created entirely in pure JavaScript, and does not rely on any other libraries or frameworks to minimise overhead from unnecessary dependencies.
